@@ -8,7 +8,7 @@ This project demonstrates a PLC-based conveyor automation system developed using
 The purpose of the project was to analyze how programmable logic controllers are used in industrial automation to coordinate operator inputs, sensors, motor outputs, and machine sequencing.
 
 ## Demo / Report
-- Final report PDF: `Joseph Daniluk MCTR420-Final Project.pdf`
+- Final report PDF: `PLC_Conveyor_Automation_Report.pdf`
 - Demo video: https://youtu.be/NjD3blgmhTs?si=GTT_wQP5m68gaec7
 
 ## Tools and Technologies
